@@ -1,7 +1,7 @@
 #!/usr/bin/expect
 
 set timeout -1
-spawn ./bulk.sh
+spawn ./step2.sh
 
 expect "Password:"
 send -- "adminpass\r"
