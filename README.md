@@ -25,6 +25,18 @@ After cloning the repo into the location of your choice, your home directory sho
 
 After launching the `./install.sh` script you'll be watching the full install process, step-by-step, until completed.  Once the install process has returned you to the bash prompt your NetBox environment will be up and running on TCP/443.  It can be accessed by browser at `https://<machine IP address>`
 
+Build times are quite reasonable:
+
+```
+# time ./install.sh
+
+-- output omitted --
+
+real    3m42.137s
+user    0m3.064s
+sys     0m0.796s
+```
+
 ## Frequently Asked Questions
 
 - Why didn't you use X, Y, or Z to accomplish this?
