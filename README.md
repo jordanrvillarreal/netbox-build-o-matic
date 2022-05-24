@@ -19,7 +19,7 @@ ymmv
 After cloning the repo into the location of your choice, your home directory should be fine, run the following:
 
  - `sudo -i`
- - `cd (cloned directory)/netbox-config-o-matic`
+ - `cd (cloned directory)/netbox-build-o-matic`
  - `chmod u+x install.sh`
  - `./install.sh`
 
