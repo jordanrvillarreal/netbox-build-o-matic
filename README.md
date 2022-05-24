@@ -28,9 +28,9 @@ After launching the `./install.sh` script you'll be watching the full install pr
 ## Frequently Asked Questions
 
 - Why didn't you use X, Y, or Z to accomplish this?
---Because I didn't want to.
+  - Because I didn't want to.
 - Don't you think it would be better if you did X instead of Y?
--- Probably.
--  If I released code this bad, I would be embarassed.
--- That's not a question. 
+  - Probably.
+- If I released code this bad, I would be embarassed.
+  - That's not a question. 
 
