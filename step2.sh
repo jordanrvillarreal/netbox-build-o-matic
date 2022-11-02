@@ -28,6 +28,8 @@ adduser --system --group netbox
 chown --recursive netbox /opt/netbox/netbox/media/
 
 cp /opt/netbox/netbox/netbox/configuration_example.py /opt/netbox/netbox/netbox/configuration.py
+cp /opt/netbox/netbox/netbox/configuration.example.py /opt/netbox/netbox/netbox/configuration.py
+
 
 PRIVATE_KEY=`python3 /opt/netbox/netbox/generate_secret_key.py`
 
